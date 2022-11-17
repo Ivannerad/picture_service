@@ -1,0 +1,4 @@
+aiohttp==3.8.3
+wheel==0.38.4
+psycopg2==2.9.5
+Pillow==9.3.0
